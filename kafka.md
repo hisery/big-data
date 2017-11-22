@@ -17,4 +17,4 @@ http://www.jianshu.com/p/a313ffd19a2e
 ## 运行环境
 -    windows系统环境：
 -        1.本地搭建zookeeper服务器，执行zookeeper1/bin路径下zkServer.cmd。
--        2.本地搭建kafka服务器，可以将附件server解压，执行start_kafka.bat。
+-        2.本地搭建kafka服务器，执行start_kafka.bat。
